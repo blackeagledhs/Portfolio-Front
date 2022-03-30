@@ -1,0 +1,24 @@
+.banner {
+    position: relative;
+    margin: 30px auto;
+    background-size: cover;
+   
+}
+
+.avatar {
+    position: absolute;
+    background-size: contain;
+    margin-top: -100px;
+    margin-left: 50px;
+}
+
+.edit {
+    margin-top: 0;
+    margin-left: 20px;
+    position: auto;
+}
+
+.perfil {
+    margin-top: 100px;
+    font-family: 'Press Start 2P', cursive;
+}
