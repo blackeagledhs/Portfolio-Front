@@ -20,4 +20,26 @@ body {
     border: 1px solid #fff;
     border-radius: 20px;
     padding: 1%;
+    color: #ffffff;
+}
+
+.studies {
+    border: 1px solid #fff;
+    border-radius: 20px;
+    padding: 1%;
+    color: #ffffff;
+}
+
+.skills {
+    border: 1px solid #fff;
+    border-radius: 20px;
+    padding: 1%;
+    color: #ffffff;
+}
+
+.projects {
+    border: 1px solid #fff;
+    border-radius: 20px;
+    padding: 1%;
+    color: #ffffff;
 }
